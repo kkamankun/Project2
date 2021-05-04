@@ -1,10 +1,12 @@
 # SWEngineering_Git_Practice<br>
 
-팀장 : 남윤창 2015722068<br><br>
+팀장 <br>
+남윤창 2015722068 [Akgop(David Yoonchang Nam)](https://github.com/Akgop)  <br><br>
 
-팀원 : 박태성 2015722031<br>
-       유현근 2015722058<br>
-       정하영 2015722036<br><br>
+팀원  <br>
+박태성 2015722031 [developerTae](https://github.com/developerTae) <br>
+유현근 2015722058 [YuHyeonGeun-KOR](https://github.com/YuHyeonGeun-KOR) <br>
+정하영 2015722036 [hydenny](https://github.com/hydenny) <br><br><br> 
 
 파일 비교 프로그램 구현<br>
   • linux ubuntu(18.04 LTS)상에서 두 개의 파일을 비교하는 프로그램 구현<br>

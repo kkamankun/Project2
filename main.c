@@ -95,5 +95,17 @@ void datecmp(){
 
 //두 개의 파일 수정 시간을 비교하는 함수 작성
 void timecmp(){
-    
+    printf("time compare\n");
+    if (time1.tm_hour > time2.tm_hour)
+        printf("%s is early\n", "text1");
+    else if (time1.tm_hour < time2.tm_hour)
+        printf("%s is early\n", "text2");
+    else
+        if (time1.tm_min > time2.tm_min)
+            printf("%s is early\n", "text1");
+        else if (time1.tm_min < time2.tm_min)
+            printf("%s is early\n", "text2");
+        else
+            printf("same time\n");        
+    return;  
 }
